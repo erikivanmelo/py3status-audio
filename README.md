@@ -72,7 +72,8 @@ The `on_click(event)` method allows interaction with the audio outputs using mou
 
 ## Example Output
 When displayed in i3bar, the module might show:
-![](https://github.com/erikivanmelo/py3status-audio/blob/main/example.gif)
+<br>
+<img src="example.gif"  height="260">
 
 ## Debugging
 
