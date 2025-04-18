@@ -72,8 +72,7 @@ The `on_click(event)` method allows interaction with the audio outputs using mou
 
 ## Example Output
 When displayed in i3bar, the module might show:
-![Demostración del módulo de audio](https://imgur.com/a/C8aNijA)
-
+![](https://github.com/erikivanmelo/py3status-audio/example.gif)
 
 ## Debugging
 
