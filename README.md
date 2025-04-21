@@ -53,10 +53,10 @@ The following options can be configured in the Py3status module:
 ### Example Configuration for `output_aliases`
 You can provide aliases for audio outputs to display friendly names or icons. For example:
 ```python
-output_aliases = """
+output_aliases = "
     bluez_output.84_AC_60_29_EE_08.1:🎧,
     alsa_output.pci-0000_00_lf.3.analog-stereo:🔊
-"""
+"
 ```
 
 ## Usage
